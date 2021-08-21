@@ -24,7 +24,6 @@ public class VistaRequerimientos extends JFrame{
   
     private JPanel contentPane;
     private static JTextArea areaDeTexto;
-    private static JTable jtable; 
    
     public VistaRequerimientos(){
         
